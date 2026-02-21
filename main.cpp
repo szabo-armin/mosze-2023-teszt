@@ -31,6 +31,8 @@ int main()
 
     std::cout << "Atlag: " << atlag << std::endl;
 
+    std::cout << "Ez itt az ismerős által létrehozott collab branch" <<  std::endl;
+
     delete[] b;
 
     return 0;
